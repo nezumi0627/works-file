@@ -1,0 +1,12 @@
+# 仮想環境
+venv/
+env/
+ENV/
+.env
+.venv
+
+# ログファイル
+*.log
+
+# クッキーファイル
+cookies.json
